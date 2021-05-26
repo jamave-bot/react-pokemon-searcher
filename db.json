@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Trogdor",
+      "hp": "100",
+      "sprites": {
+        "front": "https://lh3.googleusercontent.com/proxy/CPiP_lIaT90fNAfiwpGeemNr-kIvFYCo_RORvYiWWGHiUm5i8fI-DxClYqmWqaGBGlgfuN-4fZX9jE-zK-g_Xj2iFvG1YX512U7Fz4vcI-pXCu2oTPwO0bL7ULXE1KvE7g",
+        "back": "https://www.chadly.net/static/trogdor-082f22856da2ec33616e14dd176e73e7.jpg"
+      },
+      "id": 151
     }
   ]
 }
